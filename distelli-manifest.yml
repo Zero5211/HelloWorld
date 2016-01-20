@@ -3,4 +3,4 @@ jkubiak/BranchTest:
     - echo " --- Pre Build --- "
     
   Exec:
-    - echo "Exec!"
+    - echo "Exec"
