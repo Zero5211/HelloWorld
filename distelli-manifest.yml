@@ -1,4 +1,3 @@
 jkubiak/HelloWorld:
   PreBuild:
     - echo "It Builds!"
-    - echo "Nope."
