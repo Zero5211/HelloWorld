@@ -4,4 +4,4 @@ jkubiak/HelloWorld:
     
   Exec:
     - echo "Exec"
-    - echo "Bam"
+    - echo "Bam!"
